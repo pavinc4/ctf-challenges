@@ -1,6 +1,6 @@
 
 <div align="center" style="display:inline-block;">
-  <img width="478" height="130" alt="Image" src="https://github.com/user-attachments/assets/f2bec3bc-977a-4d43-879a-0c535d0d3951" /><br>
+<img width="483" height="153" alt="Image" src="https://github.com/user-attachments/assets/41479330-588d-4639-af50-a5f5f6896542" /><br>
   Room Link: <a href="https://tryhackme.com/room/crackthehash">Crack the Hash</a>
 </div><br>
 
@@ -69,7 +69,7 @@ Hash.Target......: 48bb6e862e54f2a795ffc4e541caed4d
 
 ## Crackstation
 
-<img width="1038" height="89" alt="Image" src="https://github.com/user-attachments/assets/82bff6c0-9bdd-42c5-855c-ee7f74d03c19" />
+<img width="1048" height="95" alt="Image" src="https://github.com/user-attachments/assets/c6f653e8-d872-466f-9cac-b6372484f36a" />
 <br>
 
 Cracked Password: `easy`
@@ -123,7 +123,7 @@ cbfdac6008f9cab4083784cbd1874f76618d2a97:password123
 
 ## Crackstation
 
-<img width="1038" height="89" alt="Image" src="https://github.com/user-attachments/assets/a3ba503b-af2b-46dd-9fc0-95d4be22baf5" />
+<img width="1048" height="95" alt="Image" src="https://github.com/user-attachments/assets/34f8c391-93dc-4ab7-926f-10eba2f8752f" />
 <br>
 
 Cracked Password: `password123`
@@ -174,7 +174,7 @@ Hash.Target......: 1c8bfe8f801d79745c4631d09fff36c82aa37fc4cce4fc94668...b63032
 ```
 ## Crackstation
 
-<img width="1038" height="89" alt="Image" src="https://github.com/user-attachments/assets/24f265fb-780f-4adb-842e-9a0dc9c03f68" />
+<img width="1048" height="95" alt="Image" src="https://github.com/user-attachments/assets/136b890a-1fda-4abd-b0c0-3d7fec863456" />
 <br>
 
 Cracked Password: `letmein`
@@ -189,7 +189,7 @@ Cracked Password: `letmein`
 
 ## Identify | Hash Analyzer
 
-<img width="758" height="325" alt="Image" src="https://github.com/user-attachments/assets/67807ef3-3f67-4322-9af4-f8652d48e18c" />
+<img width="784" height="145" alt="Image" src="https://github.com/user-attachments/assets/0159da66-ba9e-411f-8a26-5e67a778c10c" />
 
 
 Hash Type : `bcrypt`
@@ -246,11 +246,14 @@ Hash Type : `MD5`
 ```
 ┌──(kali㉿kali)-[~]
 └─$ hashcat -m 900 hash.txt rockyou.txt
+hashcat (v6.2.6) starting
+
+279412f945939ba78ce0758d3fd83daa:Eternity22
 ```
 
 ## Crackstation
 
-<img width="1038" height="89" alt="Image" src="https://github.com/user-attachments/assets/bc1c9567-1d56-42f0-9723-5e24f5377b26" />
+<img width="1048" height="95" alt="Image" src="https://github.com/user-attachments/assets/54753e8c-b9e0-4e57-8a0c-ba9b3ba8c9da" />
 <br>
 
 Cracked Password: `Eternity22`
@@ -312,7 +315,7 @@ f09edcb1fcefc6dfb23dc3505a882655ff77375ed8aa2d1c13f640fccc2d0c85:paule
 
 ## Crackstation
 
-<img width="1038" height="89" alt="Image" src="https://github.com/user-attachments/assets/cedef47c-2fae-4096-979e-7508a48d8232" />
+<img width="1048" height="95" alt="Image" src="https://github.com/user-attachments/assets/3768d45f-451a-4252-b6f5-4a497ea24e4e" />
 
 
 Cracked Password: `paule`
@@ -359,7 +362,7 @@ Hash.Target......: 1dfeca0c002ae40b8619ecf94819cc1b
 ```
 ## Crackstation
 
-<img width="1038" height="89" alt="Image" src="https://github.com/user-attachments/assets/cedef47c-2fae-4096-979e-7508a48d8232" />
+<img width="1048" height="95" alt="Image" src="https://github.com/user-attachments/assets/eb841946-9215-443f-a019-3e71d436baf8" />
 
 Cracked Password: `n63umy8lkf4i`
 
@@ -379,7 +382,7 @@ Salt: aReallyHardSalt
 
 ## Identify | hashes.com
 
-<img width="1736" height="103" alt="Image" src="https://github.com/user-attachments/assets/7768f9f4-019f-4bd8-b3fc-23017f618894" />
+<img width="1734" height="106" alt="Image" src="https://github.com/user-attachments/assets/c7ceb894-e250-41d9-a513-6305edfc83da" />
 
 Hash type `SHA512crypt`
 
