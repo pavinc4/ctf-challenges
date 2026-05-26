@@ -447,3 +447,9 @@ This room is covered:
 - **Level 2**: Complex salted hash cracking .
 
 Takeaway: Identify the hash type, choose the right mode, and crack efficiently.
+
+
+<h1 align="center">👍</h1>
+
+---
+
