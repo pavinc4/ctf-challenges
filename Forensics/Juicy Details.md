@@ -139,8 +139,9 @@ The goal of this challenge was to analyze compromised server logs (access.log, a
 -  The command logs filter out the system `auth.log` entries specifically for the `sshd` process. This explicitly confirms that Secure Shell (ssh) was the target daemon service vector.
 -  The filtered terminal lines display an explicit message stating `Accepted password for www-data`. This proves the attacker successfully authenticated and logged directly into the system configuration under the `www-data` service username account
 
-Answer: ssh, www-data
+> Answer: ssh, www-data
 
----
 
 <h1 align="center">👍</h1>
+
+---
