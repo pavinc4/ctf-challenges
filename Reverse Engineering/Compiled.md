@@ -72,3 +72,7 @@ The program constructs the password for you using the format string, so you only
 <img width="630" height="115" alt="Image" src="https://github.com/user-attachments/assets/93238b82-ef23-4802-abf6-6420ecc1b79a" />
 
 **Final Password:**`DoYouEven_init`
+
+<h1 align="center">👍</h1>
+
+---
