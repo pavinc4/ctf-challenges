@@ -73,6 +73,7 @@ The program constructs the password for you using the format string, so you only
 
 **Final Password:**`DoYouEven_init`
 
+---
 <h1 align="center">👍</h1>
 
----
+
